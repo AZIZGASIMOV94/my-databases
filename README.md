@@ -1,0 +1,1 @@
+# resume_db database is used for resumeApp java api
